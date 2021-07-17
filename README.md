@@ -2,9 +2,17 @@
 
 This repository is used to store the graphics used every season
 
+## Folder Structure
+
+- [Exports](Exports/README.md) - Graphics in their exported (non-editable) format. (i.e. .png, .pdf). Uses these for sharing and uploads.
+- [Editable](Editable/README.md) - Graphics in their raw, editable format. (i.e. .ai, .afdesign, .psd).
+  - When creating graphics, see: [SN Branding Guidelines](#branding-guide)
+
+## Branding Guide
+
 ***
 
-## Colors
+### Colors
 
 When creating graphics the following font (or its derivatives) should be used:
 
@@ -14,7 +22,7 @@ When creating graphics the following font (or its derivatives) should be used:
 
 ***
 
-## Font
+### Font
 
 When creating graphics the following font (or its derivatives) should be used:
 
@@ -22,7 +30,7 @@ When creating graphics the following font (or its derivatives) should be used:
 
 ***
 
-## Aspect Ratio
+### Aspect Ratio
 
 The SuperNURDs SN shield must maintain a specific aspect ratio in ***ALL USES***
 
@@ -33,7 +41,7 @@ The SuperNURDs SN shield must maintain a specific aspect ratio in ***ALL USES***
 
 ***
 
-## FIRST and FRC Branding
+### FIRST and FRC Branding
 
 When using graphics that involve the ***FIRST*** or **FRC** logos. ***FIRST*** branding practice must be followed.
 
@@ -43,6 +51,6 @@ Official logos provided by the ***FIRST*** website branding and game pages must 
 
 ***
 
-## Completed Graphics
+### Completed Graphics
 
 - [Current and Previous Season Graphics](https://github.com/search?q=topic%3Agraphics+org%3AFRCTeam3255&type=repositories)
